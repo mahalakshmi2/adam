@@ -288,3 +288,64 @@ touch 2.java
 ls
 ls -ltr
 history -a practise.java
+cd adam
+cd maha
+ls
+user add -u 123
+user add 
+user add -u
+user add -u 123
+user add -u 900
+useradd -u 900
+useradd -uid  900
+useradd -u  900
+useradd -u  900 -d /tmp/user56
+useradd -u  900 -d /tmp
+cat /etc/group
+cat /etc/passwd
+cat /etc/shadow
+wc
+cat src wc
+cat 1.java wc
+ls
+cat 2.java wc
+cat 2.java |wc
+cat 3.java |wc
+ls |wc
+cd
+ls |wc
+ls |wc -l
+ls |wc -w
+ls |wc -c
+ls
+cat windows
+cat windows|wc
+cat test.py|wc
+cat Tech|wc
+cat Tech
+vi Tech
+ls
+cat release.key
+cat Release.key|wc
+cat Release.key
+cat Release.key|wc
+cat Release.key|wc -l
+cat Release.key|wc -w
+cat Release.key|wc -c
+less
+ls
+la |less
+ls |less
+ls |more
+clear
+ls
+tail fileb.txt
+head fileb.txt
+cd adam
+cd maha
+tail pom.xml
+tail -5 pom.xml
+head pom.xml
+head -5 pom.xml
+ls
+history -a practise.java
