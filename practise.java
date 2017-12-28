@@ -349,3 +349,34 @@ head pom.xml
 head -5 pom.xml
 ls
 history -a practise.java
+history
+cd adam
+cd maha
+ls
+touch table.java
+cat >>table.java
+sort -k 2 table.txt
+sort -k 2 table.java
+sort -k 1 table.java
+cat >>table.java
+sort -k 1 table.java
+sort -k -n 1 table.java
+sort -k 1 -n  table.java
+sort -k 2 table.java
+cat >>table.java
+sort -k 2 table.java
+sort -k 1 table.java
+sort -k 2 table.java
+sort -nk 2 table.java
+sort -k 2 table.java
+sort -k 1 table.java
+sort -nk 1 table.java
+sort -nk 2 table.java
+sort -r table.java
+sort -c table.java
+cat >>table.java
+sort -u table.java
+cat >>table.java
+sort -u table.java
+sort -m table.java
+history -a practise.java
