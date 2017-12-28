@@ -380,3 +380,44 @@ cat >>table.java
 sort -u table.java
 sort -m table.java
 history -a practise.java
+git status
+git add .
+git status
+git commit -m "28th days commands are saving to repo"
+git status
+git push bee master
+cat < month.java
+cat > month.java
+sort -m month.java
+sort -M month.java
+ls
+cmp 2.java 3.java
+cmp 3.java a.txt
+cat 3.java
+cat a.txt
+diff 3.java a.txt
+head 5 a.txt
+cat a.txt
+head 5 a.txt
+head -5 a.txt
+head -5 a.txt|more
+head -5 a.txt
+head a.txt
+head -5 a.txt
+top
+clear
+top a.txt
+tail a.txt
+tail -6 a.txt
+tr b B a.txt
+tr b < a.txt
+tr b < a.txtt
+man tr
+tr a-z A-Z
+git status
+git add .
+git commit -m "commting file to local"
+git status
+git push bee master
+git status
+history -a practise.java
