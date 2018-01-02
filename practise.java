@@ -421,3 +421,13 @@ git status
 git push bee master
 git status
 history -a practise.java
+git status
+git add .
+git commit -m "today history is saved"
+git add .
+git status
+git push bee master
+ls
+git add .
+git status
+history -a practise.java
