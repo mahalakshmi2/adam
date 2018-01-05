@@ -431,3 +431,49 @@ ls
 git add .
 git status
 history -a practise.java
+git status
+git commit --allow-empty-message
+git log -n1
+git log -n2
+git status
+ls
+touch 'my-name-is'
+ls
+touch "my-name"
+ls
+touch "my name"
+ls
+git status
+git add .
+git commit --allow-empty-message
+git log -n1
+git reset 374d2269b2327a885cf3d97d59af13db22abc6c6
+git status
+git log
+git log -n1
+git show head
+git show HEAD
+git reset HEAD 
+git show HEAD
+git reset--hard 374d2269b2327a885cf3d97d59af13db22abc6c6
+
+git reset --hard 374d2269b2327a885cf3d97d59af13db22abc6c6
+git log -n1
+git log -n2
+git reset --hard 58b9cffff10d66eebc12c632bfe61119d5e9861e
+git log -n3
+git status
+git commit --no-skip
+git commit --no-skip--all
+git commit --all
+git commit --no -skip
+git status
+ls 
+git status
+git commit -m "file is commited to repo"
+git push bee master
+git status
+git history
+history
+ls
+history -a practise.java
