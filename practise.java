@@ -477,3 +477,17 @@ git history
 history
 ls
 history -a practise.java
+cd adam
+cd maha
+ls
+w
+w -b
+man w
+who --b
+man who
+who --users
+who -a
+who --all
+git status
+history
+history -a practise.java
